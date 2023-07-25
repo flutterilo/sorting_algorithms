@@ -2,7 +2,7 @@
 
 
 /**
- * lomuto_partition - order a subset of an array of integers according to 
+ * lomuto_partitions - order a subset of an array of integers according to
  * @array: The array of integers.
  * @size: The size of the array.
  * @left: The starting index of the subset to order.
